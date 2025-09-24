@@ -1,6 +1,6 @@
 ---
-name: Issue Temp Proj
-about: Role Desn
+name: User Stories 
+about: ''
 title: ''
 labels: ''
 assignees: ''
