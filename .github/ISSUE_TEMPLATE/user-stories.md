@@ -1,6 +1,6 @@
 ---
-name: User Stories 
-about: ''
+name: User Stories
+about: short desc about US
 title: ''
 labels: ''
 assignees: ''
